@@ -1,5 +1,5 @@
 # MTNWebService
-MS-SQL을 이용한 웹서비스
+MS-SQL을 이용한 웹서비스 구현 (서버 asp.net / 클라이언트 winform)
 
 # 개발환경
 - 닷넷 프레임웍 4.5.2

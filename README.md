@@ -8,6 +8,6 @@
 - SQL Server
 - IIS
 
-# 출처
+# 도움이 되어준 소스
 - [RyuaNerin 공인인증서 Hanyu : https://github.com/RyuaNerin/Hanyu](https://github.com/RyuaNerin "RyuaNerin 공인인증서")
 - [Sahir Noor Ali WebService : https://github.com/sahirnoorali/course-grading-service](https://github.com/sahirnoorali/course-grading-service "Sahir Noor Ali WebService")

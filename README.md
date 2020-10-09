@@ -1,5 +1,6 @@
 # MTNWebService
-MS-SQL을 이용한 웹서비스 구현 (서버 asp.net / 클라이언트 winform)
+- MS-SQL을 이용한 웹서비스 구현 (서버 asp.net / 클라이언트 winform)
+- [공인인증서 보내기 / 공인인증서 가져오기] 기능 구현
 
 # Using
 - ASMX
